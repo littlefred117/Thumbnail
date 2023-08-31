@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
 x = [3,4,5]
 y = [1,23, 9]
